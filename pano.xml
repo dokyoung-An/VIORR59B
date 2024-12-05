@@ -8,7 +8,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" fov="156.844" pan="-176.433" tilt="0.0780379"/>
+      <start projection="4" fov="156.844" pan="175.638" tilt="-0.121442"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -37,7 +37,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="82.4182">
-      <start projection="4" fov="156.844" pan="178.017" tilt="-0.561061"/>
+      <start projection="4" fov="156.844" pan="-13.7422" tilt="-2.76886"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -67,7 +67,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="81.1598">
-      <start projection="4" fov="156.844" pan="18.6524" tilt="-0.063421"/>
+      <start projection="4" fov="156.844" pan="178.734" tilt="-0.817808"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -97,7 +97,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" fov="156.844" pan="171.522" tilt="-0.08226"/>
+      <start projection="4" fov="156.844" pan="176.262" tilt="-0.0138658"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -111,6 +111,9 @@
       <hotspot title="거실" id="Point01" url="{node1}" target="" skinid="ht_node" description="" pan="-173.86" tilt="-33.01"/>
       <hotspot title="복도2" id="Point02" url="{node4}" target="" skinid="ht_node" description="" pan="-278.36" tilt="-26.1"/>
       <hotspot title="안방" id="Point03" url="{node6}" target="" skinid="ht_node" description="" pan="-98.84" tilt="-21.08"/>
+      <hotspot title="주방" id="Point04" url="{node8}" target="" skinid="ht_node" description="" pan="-355.63" tilt="-14.58"/>
+      <hotspot title="침실2" id="Point05" url="{node10}" target="" skinid="ht_node" description="" pan="-241.38" tilt="-12.26"/>
+      <hotspot title="안방욕실" id="Point06" url="{node7}" target="" skinid="ht_node" description="" pan="-52.48" tilt="-15.51"/>
     </hotspots>
     <media/>
     <transition enabled="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomoutpause="1" zoomin="0"/>
@@ -126,7 +129,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" fov="156.844" pan="0.185993" tilt="0.721563"/>
+      <start projection="4" fov="156.844" pan="-1.59237" tilt="-0.342549"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -153,7 +156,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="86.4921">
-      <start projection="4" fov="156.844" pan="-176.56" tilt="-2.13339"/>
+      <start projection="4" fov="156.844" pan="-174.169" tilt="-2.01713"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -164,8 +167,10 @@
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label width="180" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" background="1" borderradius="1" borderalpha="1" backgroundalpha="1" border="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot title="복도3" id="Point01" url="{node5}" target="" skinid="ht_node" description="" pan="-260.53" tilt="-34.32"/>
+      <hotspot title="복도3" id="Point01" url="{node5}" target="" skinid="ht_node" description="" pan="-261.05" tilt="-32.86"/>
       <hotspot title="안방" id="Point02" url="{node6}" target="" skinid="ht_node" description="" pan="-325.41" tilt="-25.23"/>
+      <hotspot title="침실2" id="Point03" url="{node10}" target="" skinid="ht_node" description="" pan="-179.93" tilt="-9.99"/>
+      <hotspot title="복도2" id="Point04" url="{node4}" target="" skinid="ht_node" description="" pan="-217.64" tilt="-21.77"/>
     </hotspots>
     <media/>
     <transition enabled="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomoutpause="1" zoomin="0"/>
@@ -181,7 +186,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" fov="156.844" pan="179.887" tilt="0.749373"/>
+      <start projection="4" fov="156.844" pan="-179.939" tilt="-0.0871789"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -210,7 +215,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="88.3883">
-      <start projection="4" fov="156.844" pan="89.8232" tilt="-0.727719"/>
+      <start projection="4" fov="156.844" pan="89.4062" tilt="0.0569396"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -237,7 +242,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="94.1383">
-      <start projection="4" fov="156.844" pan="1.45694" tilt="-0.723293"/>
+      <start projection="4" fov="156.844" pan="1.87182" tilt="-1.00129"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -265,7 +270,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-271.772">
-      <start projection="4" fov="156.844" pan="178.741" tilt="-0.397155"/>
+      <start projection="4" fov="156.844" pan="-178.815" tilt="-1.63055"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -293,7 +298,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="91.7789">
-      <start projection="4" fov="156.844" pan="3.25087" tilt="-2.34999"/>
+      <start projection="4" fov="156.844" pan="2.31267" tilt="0.602484"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -304,7 +309,8 @@
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label width="180" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" background="1" borderradius="1" borderalpha="1" backgroundalpha="1" border="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot title="주방" id="Point01" url="{node8}" target="" skinid="ht_node" description="" pan="-187.24" tilt="-17.15"/>
+      <hotspot title="주방" id="Point01" url="{node8}" target="" skinid="ht_node" description="" pan="-187.88" tilt="-20"/>
+      <hotspot title="안방" id="Point02" url="{node6}" target="" skinid="ht_node" description="" pan="-143.69" tilt="-41.15"/>
     </hotspots>
     <media/>
     <transition enabled="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomoutpause="1" zoomin="0"/>
