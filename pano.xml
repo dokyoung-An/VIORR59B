@@ -80,8 +80,10 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="주방" id="Point01" url="{node8}" target="" skinid="ht_node" description="" pan="-320.05" tilt="-11.83"/>
       <hotspot title="복도3" id="Point02" url="{node5}" target="" skinid="ht_node" description="" pan="-12.91" tilt="-23.89"/>
-      <hotspot title="복도1" id="Point03" url="{node3}" target="" skinid="ht_node" description="" pan="-180.55" tilt="-18.92"/>
+      <hotspot title="복도1" id="Point03" url="{node3}" target="" skinid="ht_node" description="" pan="-179.53" tilt="-15.52"/>
       <hotspot title="침실2" id="Point04" url="{node10}" target="" skinid="ht_node" description="" pan="-119.11" tilt="-15.21"/>
+      <hotspot title="침실1" id="Point05" url="{node9}" target="" skinid="ht_node" description="" pan="-168.85" tilt="-25.88"/>
+      <hotspot title="현관" id="Point06" url="{node11}" target="" skinid="ht_node" description="" pan="-189.39" tilt="-20.24"/>
     </hotspots>
     <media/>
     <transition enabled="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomoutpause="1" zoomin="0"/>
